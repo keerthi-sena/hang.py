@@ -3,7 +3,7 @@
 import random
 from collections import Counter
 
-someWords = '''helium neon hydrogen oxygen fluorine argon nitrogen chlorine freon ethyleneoxide hydrogen bromide
+someWords = '''helium neon hydrogen oxygen fluorine argon nitrogen chlorine freon ethyleneoxide hydrogenbromide
 krypton xenon radon arsine cyanogen  carbondioxide  acetylene propane butane nitrousoxide '''
 
 someWords = someWords.split(' ')
